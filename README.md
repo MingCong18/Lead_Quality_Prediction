@@ -1,4 +1,4 @@
-# Nolo Lead Quality Prediction in TensorFlow and TensorFlow serving (Divorce AoP only)
+# Lead Quality Prediction in TensorFlow and TensorFlow serving
 
 
 ## Getting Started
@@ -21,7 +21,7 @@ $>cd ..
 ### Clone this repo in /serving/tensorflow_serving directory
 ```
 $>cd tensorflow_serving
-$>git clone git@git.internetbrands.com:data-science/Nolo_Lead_Quality_Prediction.git
+$>git clone https://github.com/mmmmming18/Lead_Quality_Prediction.git
 ```
 ### Download [GoogleNews-vectors-negative300](https://github.com/mmihaltz/word2vec-GoogleNews-vectors) and save it in /serving/tensorflow_serving/lead_model_serving directory
 
